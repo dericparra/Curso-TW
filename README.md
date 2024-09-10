@@ -7,6 +7,7 @@ Este repositório contém exemplos de documentações técnicas desenvolvidas co
 Ao longo do curso, são abordados seis tipos diferentes de documentação técnica, que incluem:
 
 1. [Documentação Funcional](https://github.com/dericparra/Curso-TW/blob/main/documenta%C3%A7%C3%A3o-funcional.md)
+2. [Tutorial](https://github.com/dericparra/Curso-TW/blob/main/tutorial.md)
 
 
 ## Como Utilizar
