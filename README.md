@@ -8,7 +8,7 @@ Ao longo do curso, são abordados seis tipos diferentes de documentação técni
 
 1. [Documentação Funcional](https://github.com/dericparra/Curso-TW/blob/main/documenta%C3%A7%C3%A3o-funcional.md)
 2. [Tutorial](https://github.com/dericparra/Curso-TW/blob/main/tutorial.md)
-
+3. [How To](https://github.com/dericparra/Curso-TW/blob/main/how-to.md)
 
 ## Como Utilizar
 Cada modelo de documentação está organizado em diretórios correspondentes aos tipos abordados. Sinta-se à vontade para explorar, adaptar e utilizar conforme suas necessidades. Este repositório é um ponto de partida para aqueles que desejam melhorar suas habilidades de escrita técnica.
